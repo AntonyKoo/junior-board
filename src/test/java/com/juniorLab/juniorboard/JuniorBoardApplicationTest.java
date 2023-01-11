@@ -1,10 +1,10 @@
 package com.juniorLab.juniorboard;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JuniorBoardApplicationTests {
+class JuniorBoardApplicationTest {
 
 	@Test
 	void contextLoads() {

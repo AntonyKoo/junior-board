@@ -2,10 +2,12 @@ package com.juniorLab.juniorboard.domain.posts;
 
 import lombok.Builder;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 
 @Getter
+@NoArgsConstructor
 @Entity
 public class Posts {
     @Id
